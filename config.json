@@ -1,6 +1,6 @@
 {
     "interval": 500,
-    "serverPort": 1336,
+    "serverPort": 1340,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "https://suede-store.com/sitemap_products_1.xml"
+        "https://socialstatuspgh.com/sitemap_products_1.xml"
         
     ],
     "keywords": [
