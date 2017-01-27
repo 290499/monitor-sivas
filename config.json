@@ -1,6 +1,6 @@
 {
     "interval": 500,
-    "serverPort": 1342,
+    "serverPort": 1343,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://premium-lab.fr/1_fr_0_sitemap.xml"
+        "http://www.sneak-a-venue.com/sitemap.xml"
         
     ],
     "keywords": [
