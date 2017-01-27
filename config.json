@@ -1,6 +1,6 @@
 {
     "interval": 500,
-    "serverPort": 1343,
+    "serverPort": 1344,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://www.sneak-a-venue.com/sitemap.xml"
+        "http://www.sivasdescalzo.com/sitemaps/en/sitemap.xml"
         
     ],
     "keywords": [
